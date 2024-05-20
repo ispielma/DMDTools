@@ -1,0 +1,5 @@
+name = "DMDTools"
+authors = ["Ian Spielman <ian.spielman@nist.gov>"]
+version = "0.1.0"
+
+[deps]

@@ -1,0 +1,7 @@
+[deps]
+AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+QGas = "157a641c-7539-4439-85a5-392db9878408"
+ColdAtomImaging = "7b00c4f3-7e83-4a80-8ec0-525000b4959e"
